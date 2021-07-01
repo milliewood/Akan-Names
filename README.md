@@ -9,10 +9,11 @@
 setup description https://milliewood.github.io/Akan-Names/
 
 Technologies used
-HTML.5
-CSS
-JavaScript
-Bootstrap 
+-HTML.5
+-CSS
+-JavaScript
+-Bootstrap 
+
 
 BDD
 The user will be required to fill out information about his/her date of birth. The application wil then calculate the day of the week the user was orn and outputs it. Also one will be required to choose his gender and it will generate your Akan Name. For Example:
