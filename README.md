@@ -6,7 +6,7 @@
 
 #DescriptionThis project is a web application that takes a user's birthday and calculates the day of the week the user was born and then depending on their genders, it outputs their Akan Name which is basically derived from the Ghanaian culture.
 
-setup descriptionhttps://milliewood.github.io/Akan-Names/
+setup description https://milliewood.github.io/Akan-Names/
 
 Technologies used
 HTML.5
